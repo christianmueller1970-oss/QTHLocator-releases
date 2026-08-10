@@ -3,12 +3,23 @@
     <channel>
         <title>QTH-Locator</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 10 Aug 2026 20:37:14 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/releases/download/1.0.1/QTH-Locator-1.0.1.dmg" length="2367346" type="application/octet-stream" sparkle:edSignature="1NkqLFf/ovlBJBtHPOxVOTGklzQeCCIjQ2OM6U9QZqEQzYnQTgG5eb04Xra04unYdotNXJ0qTpxYVfUZ4dj3BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/releases/download/1.0.1/QTH-Locator3-1.delta" sparkle:deltaFrom="1" length="10478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3DHlCpVst429h6CmEQpRGcn/oPq8FvX3RLOZCsAN6fvz97izrbTlXOhc+DsnK3BkoEHXsaeJE7c7fu/WBsRyDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 10 Aug 2026 20:32:41 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/releases/download/1.0.0/QTH-Locator-1.0.0.dmg" length="2366987" type="application/octet-stream" sparkle:edSignature="sKRnPjeVBQZD6+T2ejt45X0CPEo1fv2jAjfntJW6r+YhyI4svmsb3Xwk5wWD89ZtML2crXwsry2Kb5bE7zzcAA=="/>
+            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/releases/download/1.0.1/QTH-Locator-1.0.0.dmg" length="2366987" type="application/octet-stream" sparkle:edSignature="sKRnPjeVBQZD6+T2ejt45X0CPEo1fv2jAjfntJW6r+YhyI4svmsb3Xwk5wWD89ZtML2crXwsry2Kb5bE7zzcAA=="/>
         </item>
     </channel>
 </rss>
