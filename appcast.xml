@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>QTH-Locator</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 10 Aug 2026 20:32:41 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/releases/download/1.0.0/QTH-Locator-1.0.0.dmg" length="2366987" type="application/octet-stream" sparkle:edSignature="sKRnPjeVBQZD6+T2ejt45X0CPEo1fv2jAjfntJW6r+YhyI4svmsb3Xwk5wWD89ZtML2crXwsry2Kb5bE7zzcAA=="/>
+        </item>
+    </channel>
+</rss>
