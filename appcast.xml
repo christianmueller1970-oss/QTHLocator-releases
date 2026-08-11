@@ -3,6 +3,18 @@
     <channel>
         <title>QTH-Locator</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 11 Aug 2026 08:35:00 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator-1.0.2.dmg" length="2419573" type="application/octet-stream" sparkle:edSignature="1eHny98bouDSm/CfGqc02Wd9v6AjssVfkWVOfBBVt+6U9EUAEE9kv+WR4T5ZZbHmtdxSQQ2fzhax3leueP9cDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator6-3.delta" sparkle:deltaFrom="3" length="182610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+0toWYA7oN5HitzPGpr2Um2Ev5sFiQnV+piZDzysR63CZGJ3IRaIP0mkOLw3sIP3ybc2eVfRUT4gD8mtXnIRBA=="/>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator6-1.delta" sparkle:deltaFrom="1" length="182230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gFfSPXOp0/r7BBcXFV/tTE19yy+KiOioYPdrkZWhdB/vtCJC/fXWml+ECVOsDUt1qLD2kK734rGS00aDB3CAAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 10 Aug 2026 20:37:14 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
