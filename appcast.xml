@@ -3,6 +3,21 @@
     <channel>
         <title>QTH-Locator</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Thu, 08 Oct 2026 20:12:01 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator-1.1.2.dmg" length="2453153" type="application/octet-stream" sparkle:edSignature="VIgtHgSbX3xrO4pXqaeOzGkA3TN8KtGQXr/+4ay4m16icNiBZp5feYO54ra1LqRRO15MjXMPwTpw2cqVmNiYDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator10-9.delta" sparkle:deltaFrom="9" length="141534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tV9wlv1IGZtH09WnpTat9sYcD8A2ldqVKtN4FlXh29Q5o3d5uqQe8I7MwC2r5yijwabnSUsnFiwApDUZwF67Aw=="/>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator10-8.delta" sparkle:deltaFrom="8" length="161366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CPIF24DhmucuHxy450tGCmaFFaQDhbnvVm1bCpuOOnTwJfn8idnTjnQKliiyCK4wjU4ddZg1jd6AbIN7f6UuBQ=="/>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator10-7.delta" sparkle:deltaFrom="7" length="369714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cjbFNOsiJHJQfS9tW/SCsR2GQKbSLqVzQustP2+FDmZHSYx8GLcjPxyySIcHEVMAtXt1ZAKI683MItIIav3ZCg=="/>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator10-6.delta" sparkle:deltaFrom="6" length="369466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ke4NgLzwgSWYQo4wmcvXs1laMM0MlXsigrx0PEjBws3CB733b2OnpdRl9zrDZoSJCq7YSEL1qKMNnL6X+k1OBQ=="/>
+                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator10-3.delta" sparkle:deltaFrom="3" length="409258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZTIIoCStOmU7qupqG1VgA5oTWJtSRHyf2A2IElAYyWtAAta1uc4ueyLiFlf4ro3mA4nwcRpP8Ut+y77AD6bjCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 08 Oct 2026 19:50:46 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -29,19 +44,6 @@
                 <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator8-6.delta" sparkle:deltaFrom="6" length="343426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MxCqYtjW9z1aL2BssrCGHmLeELmgTd6qlCdYn7cWNXW555KSf8iPce5G4lRSl4VE9avSjDn4JiCjRp8XFgk/Ag=="/>
                 <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator8-3.delta" sparkle:deltaFrom="3" length="384618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sqEX+luLDGXN82ptGPko6p3L/TU5wRKc1Mm59JU6ldw16EdQUd7d7YGL+jRgr7+hoYUOFfgoPy382dRgpdGODw=="/>
                 <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator8-1.delta" sparkle:deltaFrom="1" length="384238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ejbDJ+CcAwixtvNL/97DXxLRCO4enSiS006RDOtpoFSB5LAkuaz91bQjzuTi74wh3ohnZ4bcQ0b/6Lg7TD85Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 11 Aug 2026 19:55:18 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator-1.0.3.dmg" length="2419587" type="application/octet-stream" sparkle:edSignature="JGUm3t9Ojxvs/1yCJ8xU9IqVuIwFuFb6ndAxEgvwaGaFq620qbd8r4uwaJmWRt8AxRUylxe+HKhPg1O/l1a6AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator7-6.delta" sparkle:deltaFrom="6" length="22050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MkqDRMf8jOZrWSqLhIByKi+5uOdU6aJ9y5bCeG1umTV0gsB6TLX0Pqcs74yIxE+shJUUz20ygtUReK8fGxJGDw=="/>
-                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator7-3.delta" sparkle:deltaFrom="3" length="182190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I+zUjvcPXZWXxYURgQ+p/uH8dyMk8AwEiykb0yh/nDEvl6SDmUhllUQ2A/ydXInhfBlfKDk0W5krX0Ehhz7PCg=="/>
-                <enclosure url="https://github.com/christianmueller1970-oss/QTHLocator-releases/raw/main/QTH-Locator7-1.delta" sparkle:deltaFrom="1" length="182230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X9Aos5ChOdDEIU8jXyQ/duft5OL2Y1cDeWQTVR7VKdP9DSVhiAaAuq7mSMxouNuWQxl6VyBZwOy58RY1dVP4AQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
